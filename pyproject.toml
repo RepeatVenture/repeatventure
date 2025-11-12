@@ -1,0 +1,9 @@
+
+[project]
+name = "autoincome"
+version = "1.1.0"
+description = "Fully automated content generation & publishing (RepeatVenture edition)"
+requires-python = ">=3.10"
+
+[tool.setuptools]
+package-dir = {"" = "src"}
